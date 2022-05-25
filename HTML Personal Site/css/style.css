@@ -16,6 +16,11 @@ a:visited {
     color: #9F9BB8
 }
 
+hr {
+    color:#9F9BB8;
+    border-style: none;
+}
+
 /* hr {
     background-color: none ;
     width: 10%;
