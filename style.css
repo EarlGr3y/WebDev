@@ -14,18 +14,16 @@ h3 {
 }
 
 a:visited {
-    color: #9F9BB8
+    color: rgba(255, 255, 255, 0.7);
 }
 
 a:link {
-    color:#9F9BB8
+    color: rgba(255, 255, 255, 0.7);
+
 }
 
-/* hr {
-    background-color: none ;
-    width: 10%;
-    color: white;
-    /* border-style: none;
-    /* border-top-style: dotted;
-    border-color: grey; */
-    /* border-width: 10px; */
+hr {
+    border-top: rgba(255, 255, 255, 0.7);
+    color: rgba(255, 255, 255, 0.7);
+    height: 1px;
+}
