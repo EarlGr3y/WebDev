@@ -2,7 +2,7 @@ body {
     font-family: sans-serif;
     color: white;
     background: conic-gradient(from 25.09deg at -8.87% 113.43%, #000F24 -3.75deg, #00CEB2 66.54deg, #AD00FF 187.5deg, #0E0A9A 279.38deg, #000F24 356.25deg, #00CEB2 426.54deg);
-
+    padding: 25px 50px 75px;
 }
 
 h1 {
@@ -26,4 +26,5 @@ hr {
     border-top: rgba(255, 255, 255, 0.7);
     color: rgba(255, 255, 255, 0.7);
     height: 1px;
+    width: 100%;
 }
